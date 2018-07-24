@@ -1,5 +1,5 @@
 # tslslogit
-Implements a numerically stable method of estimating logistic regressions which can be useful when convergence issues are likely or when a system has to be robust to such problems arising unexpectedly.  It also works when there is endogeneity as well.  The estimator is based on a contraction mapping result (see included PDF, rlr_zf.pdf, for details). 
+Implements a numerically stable method of estimating logistic regressions which can be useful when convergence issues are likely or when a system has to be robust to such problems arising unexpectedly.  It also works when there is endogeneity as well.  The estimator is based on a contraction mapping result (see included PDF, rlr_letter_zf.pdf, for details). 
 
 Currently, an R implementation is included in the repository, and I plan to add a Stata version as well.
 
